@@ -11,3 +11,18 @@
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License. */
+
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    width: 100vw;
+    height: 90vh;
+    background: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%, 100%;
+    background-position-y: -225px;
+}
